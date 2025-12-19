@@ -47,7 +47,7 @@ Built with a focus on clean UI implementation:
 
 | Planet Gallery (Grid) | Planet Details |
 | :---: | :---: |
-|  ![WhatsApp Image 2025-12-19 at 11 24 15_0c52a8a2](https://github.com/user-attachments/assets/e65d2def-81a6-47a3-bcbf-29900cbfb37c)|![WhatsApp Image 2025-12-19 at 11 24 16_bc73f416](https://github.com/user-attachments/assets/59432a0e-664a-49b4-9e91-e25e71aeebaf)|
+|  ![WhatsApp Image 2025-12-19 at 11 24 15_0c52a8a2](https://github.com/user-attachments/assets/e65d2def-81a6-47a3-bcbf-29900cbfb37c)|![WhatsApp Image 2025-12-19 at 11 24 16_bc73f416](https://github.com/user-attachments/assets/59432a0e-664a-49b4-9e91-e25e71aeebaf)![WhatsApp Image 2025-12-19 at 11 24 16_862ad462](https://github.com/user-attachments/assets/d63e3263-8099-4c81-b096-f99cf72bf51b)|
 
 > *Note: The app features a rich dataset covering all major planets including Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.*
 
